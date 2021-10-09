@@ -1,0 +1,43 @@
+{
+  "[dart]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true,
+    },
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.insertSpaces": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.insertMode": "replace",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.tabSize": 2,
+    "editor.wordBasedSuggestions": false,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80
+  },
+  "cSpell.words": [
+    "mockito",
+    "riverpod"
+  ],
+  "dart.lineLength": 80,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "files.watcherExclude": {
+    "**/.fvm": true,
+    "**/.history": true
+  },
+  "git.ignoreLimitWarning": true,
+  "search.exclude": {
+    "**/.fvm": true,
+    "**/.history": true,
+    "**/*.ast.gql.dart": true,
+    "**/*.data.gql.dart": true,
+    "**/*.gql.g.dart": true,
+    "**/*.req.gql.dart": true,
+    "**/*.var.gql.dart": true
+  }
+}

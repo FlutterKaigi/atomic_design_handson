@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "atomic_design_handson",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "atomic_design_handson (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    }
+  ]
+}

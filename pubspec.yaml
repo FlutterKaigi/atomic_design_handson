@@ -1,0 +1,26 @@
+name: atomic_design_handson
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.14.0 <3.0.0"
+
+dependencies:
+  badges: ^2.0.1
+  cupertino_icons: ^1.0.3
+  flutter:
+    sdk: flutter
+  styled_text: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  pedantic_mono: ^1.14.0+1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/flutterkaigi-navbar_logo.png
