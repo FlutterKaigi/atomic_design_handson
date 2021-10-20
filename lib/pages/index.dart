@@ -44,8 +44,17 @@ class _IndexState extends State<Index> {
                 'style': 'standard',
                 'content': '今日は Flutter を利用して Atomic Design について学びます。'
               },
-              {'style': 'divide', 'content': 'Atomic Design は'},
-              {'style': 'standard', 'content': '議論の的となる'},
+              {'style': 'divide', 'content': 'Atomic Design とは'},
+              {
+                'style': 'standard',
+                'content': '''UIデザインをパーツ・コンポーネント単位で定義していく設計手法。
+パーツは以下の５種類で定義される。
+  【最小】Atoms（原子）…パーツの最小単位
+         ・Moleculus（分子）…Atomsで構成されたパーツの単位
+         ・Organisms（生体）…Moleculus＋Atomsで構成された大きなパーツの単位
+         ・Template…Organismsで構成されたUIの静的デザイン。
+  【最大】Pages…Templateに動的部分を加えたUIの完成形。'''
+              },
             ]
           },
           {
@@ -59,9 +68,19 @@ class _IndexState extends State<Index> {
               '設計手法',
             ],
             'contents': [
-              {'style': 'standard', 'content': '今日は Flutter のデザインについて学ぶ。'},
-              {'style': 'divide', 'content': 'Flutter は'},
-              {'style': 'standard', 'content': 'Widget の組み合わせです'},
+              {'style': 'standard', 'content': '今日は Flutter のUI構築について学びます。'},
+              {'style': 'divide', 'content': 'Flutter とは'},
+              {
+                'style': 'standard',
+                'content': '''Flutterの主なコンポーネントは以下の通りである。
+
+Dartプラットフォーム
+Flutterエンジン
+基本ライブラリ
+特定のデザイン体系向けのウィジェット
+Flutter Development Tools（DevTools）
+wikipediaより'''
+              },
             ]
           },
         ],

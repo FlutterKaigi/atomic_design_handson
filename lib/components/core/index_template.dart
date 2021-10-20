@@ -36,8 +36,8 @@ class _IndexTemplateState extends State<IndexTemplate> {
                 padding: const EdgeInsets.only(
                   top: 30,
                   bottom: 30,
-                  right: 0,
-                  left: 0,
+                  right: 50,
+                  left: 50,
                 ),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
