@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Atomic Design',
-      theme: ThemeData.light(),
+      theme: ThemeData.dark(),
       home: const Index(),
     );
   }
