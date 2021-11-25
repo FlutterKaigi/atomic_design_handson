@@ -55,7 +55,7 @@ export default {
       {
         hid: `og:image`,
         name: `og:image`,
-        content: ``
+        content: `https://flutterkaigi-2021-workshop.netlify.app/top.jpg`
       }
     ],
     [
@@ -79,41 +79,41 @@ export default {
       {
         hid: `twitter:card`,
         name: `twitter:card`,
-        content: `summary` // ex: summary, summary_large_image
+        content: `summary_large_image` // ex: summary, summary_large_image
       }
     ],
-    // [
-    //   `meta`,
-    //   {
-    //     hid: `twitter:site`,
-    //     name: `twitter:site`,
-    //     content: ``
-    //   }
-    // ],
-    // [
-    //   `meta`,
-    //   {
-    //     hid: `twitter:creator`,
-    //     name: `twitter:creator`,
-    //     content: ``
-    //   }
-    // ],
-    // [
-    //   `meta`,
-    //   {
-    //     hid: `twitter:site`,
-    //     name: `twitter:site`,
-    //     content: ``
-    //   }
-    // ],
-    // [
-    //   `meta`,
-    //   {
-    //     hid: `twitter:image`,
-    //     name: `twitter:image`,
-    //     content: ``
-    //   }
-    // ],
+    [
+      `meta`,
+      {
+        hid: `twitter:site`,
+        name: `twitter:site`,
+        content: `@FlutterKaigi`
+      }
+    ],
+    [
+      `meta`,
+      {
+        hid: `twitter:creator`,
+        name: `twitter:creator`,
+        content: `@FlutterKaigi`
+      }
+    ],
+    [
+      `meta`,
+      {
+        hid: `twitter:site`,
+        name: `twitter:site`,
+        content: `@FlutterKaigi`
+      }
+    ],
+    [
+      `meta`,
+      {
+        hid: `twitter:image`,
+        name: `twitter:image`,
+        content: `https://flutterkaigi-2021-workshop.netlify.app/top.jpg`
+      }
+    ],
   ],
   base: `/`,
   themeConfig: {
