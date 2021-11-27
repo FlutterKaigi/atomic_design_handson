@@ -124,5 +124,11 @@ export default {
       //
     ],
     sidebarDepth: 3,
+  },
+  markdown: {
+    toc: { includeLevel: [1, 2] },
+    config: (md) => {
+      md.use(require('markdown-it-link-preview'))
+    }
   }
 }
