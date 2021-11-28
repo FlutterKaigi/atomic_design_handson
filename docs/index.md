@@ -24,6 +24,7 @@ HelloWorld アプリとして作成されるカウントアップアプリが出
 
 :::
 
+<!--
 ## 配信動画一覧
 
 [FlutterKaigi YouTube](https://www.youtube.com/channel/UC1JP6dPBmmccZto4LNz9KMw) チャンネル登録よろしくお願いします！
@@ -57,6 +58,7 @@ HelloWorld アプリとして作成されるカウントアップアプリが出
 ### 本編 第 4 章
 
 <YouTubeVideo video-id="-OKCx-scXi0" title="FlutterKaigi 2021 ハンズオン 本編 第 4 章" />
+-->
 
 ## 参照
 
