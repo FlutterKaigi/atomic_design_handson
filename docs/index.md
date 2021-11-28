@@ -24,6 +24,40 @@ HelloWorld アプリとして作成されるカウントアップアプリが出
 
 :::
 
+## 配信動画一覧
+
+[FlutterKaigi YouTube](https://www.youtube.com/channel/UC1JP6dPBmmccZto4LNz9KMw) チャンネル登録よろしくお願いします！
+
+[@preview](https://www.youtube.com/channel/UC1JP6dPBmmccZto4LNz9KMw)
+
+### 序章
+
+<YouTubeVideo video-id="n4rbzluBEzs" title="FlutterKaigi 2021 ハンズオン 序章" />
+
+### 本編 第 0 章 (1)
+
+<YouTubeVideo video-id="Z9j5lMKO6Tk" title="FlutterKaigi 2021 ハンズオン 本編 第 0 章 (1)" />
+
+### 本編 第 0 章 (2)
+
+<YouTubeVideo video-id="yuafDz-Dz9w" title="FlutterKaigi 2021 ハンズオン 本編 第 0 章 (2)" />
+
+### 本編 第 1 章
+
+<YouTubeVideo video-id="ra3ssiSEJ9o" title="FlutterKaigi 2021 ハンズオン 本編 第 1 章" />
+
+### 本編 第 2 章
+
+<YouTubeVideo video-id="nYUOGB5gGo8" title="FlutterKaigi 2021 ハンズオン 本編 第 2 章" />
+
+### 本編 第 3 章
+
+<YouTubeVideo video-id="qp3zPDrVppA" title="FlutterKaigi 2021 ハンズオン 本編 第 3 章" />
+
+### 本編 第 4 章
+
+<YouTubeVideo video-id="-OKCx-scXi0" title="FlutterKaigi 2021 ハンズオン 本編 第 4 章" />
+
 ## 参照
 
 最終的に参加者は [FlutterKaigi/_atomic_design_handson](https://github.com/FlutterKaigi/_atomic_design_handson) (後日公開予定) を目指していただく。
