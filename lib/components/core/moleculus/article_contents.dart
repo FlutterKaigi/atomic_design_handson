@@ -1,5 +1,5 @@
-import 'package:atomic_design_handson/components/core/atoms/article_content_divide.dart';
-import 'package:atomic_design_handson/components/core/atoms/article_content_standard.dart';
+import '../../../components/core/atoms/article_content_divide.dart';
+import '../../../components/core/atoms/article_content_standard.dart';
 import 'package:flutter/material.dart';
 
 class Style {

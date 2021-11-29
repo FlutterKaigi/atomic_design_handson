@@ -1,5 +1,5 @@
-import 'package:atomic_design_handson/components/core/atoms/profile_title.dart';
-import 'package:atomic_design_handson/components/core/atoms/profile_user_name.dart';
+import '../../../components/core/atoms/profile_title.dart';
+import '../../../components/core/atoms/profile_user_name.dart';
 import 'package:flutter/material.dart';
 
 class Profile extends StatelessWidget {

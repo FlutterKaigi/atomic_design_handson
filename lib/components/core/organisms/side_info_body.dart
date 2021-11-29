@@ -1,6 +1,6 @@
-import 'package:atomic_design_handson/components/core/moleculus/profile.dart';
-import 'package:atomic_design_handson/components/core/moleculus/side_info_archives.dart';
-import 'package:atomic_design_handson/components/core/moleculus/side_info_search.dart';
+import '../../../components/core/moleculus/profile.dart';
+import '../../../components/core/moleculus/side_info_archives.dart';
+import '../../../components/core/moleculus/side_info_search.dart';
 import 'package:flutter/material.dart';
 
 class SideInfoBodyOrganisms extends StatelessWidget {

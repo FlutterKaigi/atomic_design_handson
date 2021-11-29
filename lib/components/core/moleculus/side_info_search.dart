@@ -1,5 +1,5 @@
-import 'package:atomic_design_handson/components/core/atoms/side_info_search_field.dart';
-import 'package:atomic_design_handson/components/core/atoms/side_info_search_title.dart';
+import '../../../components/core/atoms/side_info_search_field.dart';
+import '../../../components/core/atoms/side_info_search_title.dart';
 import 'package:flutter/material.dart';
 
 class SideInfoSearch extends StatelessWidget {

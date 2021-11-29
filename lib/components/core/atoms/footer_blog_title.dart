@@ -1,4 +1,4 @@
-import 'package:atomic_design_handson/components/common/atoms/footer_text.dart';
+import '../../../components/common/atoms/footer_text.dart';
 import 'package:flutter/material.dart';
 
 class FooterBlogTitle extends StatelessWidget {

@@ -1,6 +1,6 @@
-import 'package:atomic_design_handson/components/core/atoms/side_info_archive_list.dart';
-import 'package:atomic_design_handson/components/core/atoms/side_info_archive_title.dart';
-import 'package:atomic_design_handson/components/core/atoms/side_info_none_archives.dart';
+import '../../../components/core/atoms/side_info_archive_list.dart';
+import '../../../components/core/atoms/side_info_archive_title.dart';
+import '../../../components/core/atoms/side_info_none_archives.dart';
 import 'package:flutter/material.dart';
 
 class SideInfoArchives extends StatelessWidget {

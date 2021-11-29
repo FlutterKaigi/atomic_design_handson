@@ -1,5 +1,5 @@
-import 'package:atomic_design_handson/components/core/atoms/footer_blog_title.dart';
-import 'package:atomic_design_handson/components/core/atoms/footer_user_name.dart';
+import '../../../components/core/atoms/footer_blog_title.dart';
+import '../../../components/core/atoms/footer_user_name.dart';
 import 'package:flutter/material.dart';
 
 class FooterOrganisms extends StatelessWidget {

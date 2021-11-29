@@ -1,6 +1,6 @@
-import 'package:atomic_design_handson/components/core/moleculus/article_badges.dart';
-import 'package:atomic_design_handson/components/core/moleculus/article_contents.dart';
-import 'package:atomic_design_handson/components/core/moleculus/article_title.dart';
+import '../../../components/core/moleculus/article_badges.dart';
+import '../../../components/core/moleculus/article_contents.dart';
+import '../../../components/core/moleculus/article_title.dart';
 import 'package:flutter/material.dart';
 
 class ArticleBodyOrganisms extends StatelessWidget {

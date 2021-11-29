@@ -1,4 +1,4 @@
-import 'package:atomic_design_handson/components/core/atoms/header_image.dart';
+import '../../../components/core/atoms/header_image.dart';
 import 'package:flutter/material.dart';
 
 class ImageHeaderOrganisms extends StatelessWidget {

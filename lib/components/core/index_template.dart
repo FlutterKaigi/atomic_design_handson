@@ -1,7 +1,7 @@
-import 'package:atomic_design_handson/components/core/organisms/article_body.dart';
-import 'package:atomic_design_handson/components/core/organisms/footer.dart';
-import 'package:atomic_design_handson/components/core/organisms/image_header.dart';
-import 'package:atomic_design_handson/components/core/organisms/side_info_body.dart';
+import '../../components/core/organisms/article_body.dart';
+import '../../components/core/organisms/footer.dart';
+import '../../components/core/organisms/image_header.dart';
+import '../../components/core/organisms/side_info_body.dart';
 import 'package:flutter/material.dart';
 
 class IndexTemplate extends StatefulWidget {

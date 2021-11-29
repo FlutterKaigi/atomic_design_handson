@@ -1,5 +1,5 @@
-import 'package:atomic_design_handson/components/core/atoms/article_date.dart';
-import 'package:atomic_design_handson/components/core/atoms/article_title_text.dart';
+import '../../../components/core/atoms/article_date.dart';
+import '../../../components/core/atoms/article_title_text.dart';
 import 'package:flutter/material.dart';
 
 class ArticleTitle extends StatelessWidget {

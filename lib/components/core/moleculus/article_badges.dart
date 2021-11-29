@@ -1,4 +1,4 @@
-import 'package:atomic_design_handson/components/core/atoms/article_badge.dart';
+import '../../../components/core/atoms/article_badge.dart';
 import 'package:flutter/material.dart';
 
 class ArticleBadges extends StatelessWidget {
