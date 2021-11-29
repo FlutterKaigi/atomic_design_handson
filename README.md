@@ -12,3 +12,7 @@ The changes are as follows below.
 - update to 2.5.1-stable
 - add pedatinc_mono
 - refactor codes for Atomic Design
+
+### Working at the FlutterKaigi 2021 [workshop](https://flutterkaigi.connpass.com/event/227769/) event (2021/11/30).
+
+Package import uses relative paths in the movie, please check [develop/relativePaths_usage](https://github.com/FlutterKaigi/_atomic_design_handson/tree/develop/relativePaths_usage) branch.
