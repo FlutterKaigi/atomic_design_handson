@@ -30,9 +30,7 @@ HelloWorld アプリとして作成されるカウントアップアプリが出
 
 [@preview](https://www.youtube.com/channel/UC1JP6dPBmmccZto4LNz9KMw)
 
-### 序章
-
-[FlutterKaigi 2021 ハンズオン 序章](https://youtu.be/n4rbzluBEzs)
+まずは [FlutterKaigi 2021 ハンズオン 序章](https://youtu.be/n4rbzluBEzs) より開始しましょう。
 
 <!--
 <YouTubeVideo video-id="n4rbzluBEzs" title="FlutterKaigi 2021 ハンズオン 序章" />
