@@ -58,4 +58,11 @@ HelloWorld アプリとして作成されるカウントアップアプリが出
 
 ## 参照
 
-最終的に参加者は [FlutterKaigi/_atomic_design_handson](https://github.com/FlutterKaigi/_atomic_design_handson) (後日公開予定) を目指していただく。
+最終的に参加者は [FlutterKaigi/_atomic_design_handson](https://github.com/FlutterKaigi/_atomic_design_handson) を目指していただく。
+
+[@preview](https://github.com/FlutterKaigi/_atomic_design_handson)
+
+## コントリビュータのご紹介
+
+- 大西優司 (Yuji Onishi)
+- jiyuujin (Yuma Kitamura)
