@@ -28,8 +28,6 @@ HelloWorld アプリとして作成されるカウントアップアプリが出
 
 [FlutterKaigi YouTube](https://www.youtube.com/channel/UC1JP6dPBmmccZto4LNz9KMw) チャンネル登録よろしくお願いします！
 
-[@preview](https://www.youtube.com/channel/UC1JP6dPBmmccZto4LNz9KMw)
-
 ### 序章
 
 [FlutterKaigi 2021 ハンズオン 序章](https://youtu.be/n4rbzluBEzs)
