@@ -58,4 +58,6 @@ HelloWorld アプリとして作成されるカウントアップアプリが出
 
 ## 参照
 
-最終的に参加者は [FlutterKaigi/_atomic_design_handson](https://github.com/FlutterKaigi/_atomic_design_handson) (後日公開予定) を目指していただく。
+[@preview](https://github.com/FlutterKaigi/_atomic_design_handson)
+
+ご質問は [Discord](https://discord.com/invite/Nr7H8JTJSF) や Twitter などで気軽に聞いていただければ幸いです。
