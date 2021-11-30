@@ -1,4 +1,8 @@
-export default {
+import path from 'path'
+import type { DefaultThemeOptions } from 'vuepress'
+import { defineUserConfig } from 'vuepress'
+
+export default defineUserConfig<DefaultThemeOptions>({
   title: `FlutterKaigi 2021 workshop | ドキュメント一覧`,
   description: `ハンズオンでご紹介のあった資料を中心に記録しています。`,
   head: [
@@ -116,6 +120,7 @@ export default {
     ],
   ],
   base: `/`,
+  clientAppEnhanceFiles: path.resolve(__dirname, `clientEnhanceApp.ts`),
   themeConfig: {
     repo: `FlutterKaigi/atomic_design_handson`,
     editLinks: false,
@@ -126,9 +131,9 @@ export default {
     sidebarDepth: 3,
   },
   markdown: {
-    toc: { includeLevel: [1, 2] },
-    config: (md) => {
-      md.use(require('@nekohack/markdown-it-link-preview'))
-    }
+    toc: { level: [1, 2] }
+  },
+  extendsMarkdown: (md) => {
+    md.use(require('@nekohack/markdown-it-link-preview'))
   }
-}
+})
