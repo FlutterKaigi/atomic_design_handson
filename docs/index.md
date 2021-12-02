@@ -1,12 +1,10 @@
 # FlutterKaigi 2021 ハンズオン
 
-[FlutterKaigi 2021](https://flutterkaigi.jp/) の 2 日目にハンズオンを開催する。
-
-[@preview](https://flutterkaigi.jp/)
+[FlutterKaigi 2021](https://flutterkaigi.jp/) 2 日目にハンズオンを開催する。
 
 ## ハンズオン概要
 
-[FlutterKaigi 2021](https://flutterkaigi.jp/) ハンズオンでは Atomic Design を扱う。
+今回は Atomic Design を扱いながら、ブログ風ウェブサイトの製作を目指していただく。
 
 ![](https://i.imgur.com/pBCwqQv.jpg)
 
