@@ -1,12 +1,10 @@
 # FlutterKaigi 2021 ハンズオン
 
-[FlutterKaigi 2021](https://flutterkaigi.jp/) の 2 日目にハンズオンを開催する。
-
-[@preview](https://flutterkaigi.jp/)
+[FlutterKaigi 2021](https://flutterkaigi.jp/) 2 日目にハンズオンを開催する。
 
 ## ハンズオン概要
 
-[FlutterKaigi 2021](https://flutterkaigi.jp/) ハンズオンでは Atomic Design を扱う。
+今回は Atomic Design を扱いながら、ブログ風ウェブサイトの製作を目指していただく。
 
 ![](https://i.imgur.com/pBCwqQv.jpg)
 
@@ -19,8 +17,6 @@
 [@preview](https://github.com/FlutterKaigi/atomic_design_handson/wiki)
 
 HelloWorld アプリとして作成されるカウントアップアプリが出来上がったら OK です。もし不明な点がおありの方は [Discord](https://discord.com/invite/Nr7H8JTJSF) で事前に聞いていただけますと幸いです。
-
-[@preview](https://discord.com/invite/Nr7H8JTJSF)
 
 :::
 
@@ -64,5 +60,5 @@ HelloWorld アプリとして作成されるカウントアップアプリが出
 
 ## コントリビュータのご紹介
 
-- 大西優司 (Yuji Onishi)
-- jiyuujin (Yuma Kitamura)
+- [大西優司](https://twitter.com/camdekka) (Yuji Onishi)
+- [jiyuujin](https://yuma-kitamura.nekohack.me/) (Yuma Kitamura)
