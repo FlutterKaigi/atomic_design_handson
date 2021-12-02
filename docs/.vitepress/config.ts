@@ -1,5 +1,5 @@
 export default {
-  title: `FlutterKaigi 2021 workshop | ドキュメント一覧`,
+  title: `FlutterKaigi 2021 ハンズオン`,
   description: `ハンズオンでご紹介のあった資料を中心に記録しています。`,
   head: [
     [
@@ -15,7 +15,7 @@ export default {
       {
         hid: `title`,
         name: `title`,
-        content: `FlutterKaigi 2021 workshop | ドキュメント一覧`
+        content: `FlutterKaigi 2021 ハンズオン`
       }
     ],
     [
@@ -39,7 +39,7 @@ export default {
       {
         hid: `og:title`,
         name: `og:title`,
-        content: `FlutterKaigi 2021 workshop | ドキュメント一覧`
+        content: `FlutterKaigi 2021 ハンズオン`
       }
     ],
     [
@@ -71,7 +71,7 @@ export default {
       {
         hid: `twitter:title`,
         name: `twitter:title`,
-        content: `FlutterKaigi 2021 workshop | ドキュメント一覧`
+        content: `FlutterKaigi 2021 ハンズオン`
       }
     ],
     [
