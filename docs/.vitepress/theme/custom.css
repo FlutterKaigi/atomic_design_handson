@@ -1,6 +1,14 @@
 :root {
-  --c-brand: #03a9f4;
-  --c-brand-light: #03a9f4;
+  --vp-c-brand: #027DFD;
+  --vp-c-brand-light: #027DFD;
+}
+
+a {
+  color: #027DFD !important;
+}
+
+a:hover {
+  color: #6200EE !important;
 }
 
 .link-preview {
