@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
-    "serve": "vitepress serve docs"
+    "serve": "vitepress serve docs",
+    "lint": "textlint ./docs/**",
+    "lint:fix": "textlint ./docs/** --fix"
   },
   "dependencies": {
     "vitepress": "^1.0.0-alpha.4",
@@ -15,6 +17,9 @@
   "devDependencies": {
     "jsdom": "^20.0.0",
     "@nekohack/markdown-it-link-preview": "^1.0.6",
+    "textlint": "^12.2.1",
+    "textlint-rule-preset-nekohack-inc": "git+https://github.com/nekohack/textlint-rule-preset-nekohack-inc.git",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0",
     "typescript": "^4.7.4",
     "xmlhttprequest": "^1.8.0"
   }
