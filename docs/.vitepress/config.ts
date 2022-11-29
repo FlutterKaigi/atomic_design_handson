@@ -55,7 +55,7 @@ export default {
       {
         hid: `og:image`,
         name: `og:image`,
-        content: `https://flutterkaigi-2021-workshop.netlify.app/top.jpg`
+        content: `https://flutterkaigi-2021-workshop.netlify.app/top.png`
       }
     ],
     [
@@ -111,7 +111,7 @@ export default {
       {
         hid: `twitter:image`,
         name: `twitter:image`,
-        content: `https://flutterkaigi-2021-workshop.netlify.app/top.jpg`
+        content: `https://flutterkaigi-2021-workshop.netlify.app/top.png`
       }
     ],
   ],
