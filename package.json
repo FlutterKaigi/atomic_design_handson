@@ -9,8 +9,7 @@
     "serve": "vitepress serve docs"
   },
   "dependencies": {
-    "vitepress": "^1.0.0-alpha.4",
-    "vue-lite-youtube-embed": "^1.0.4"
+    "vitepress": "^1.0.0-alpha.4"
   },
   "devDependencies": {
     "jsdom": "^20.0.0",

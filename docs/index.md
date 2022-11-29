@@ -26,57 +26,27 @@ HelloWorld アプリとして作成されるカウントアップアプリが出
 
 [FlutterKaigi YouTube](https://www.youtube.com/channel/UC1JP6dPBmmccZto4LNz9KMw) チャンネル登録よろしくお願いします！
 
-### 序章
-
-[FlutterKaigi 2021 ハンズオン 序章](https://youtu.be/n4rbzluBEzs)
-
-### 本編 第 0 章 (1)
+- [序章](https://youtu.be/n4rbzluBEzs)
+- [本編 第 0 章 (1)](https://youtu.be/Z9j5lMKO6Tk)
+- [本編 第 0 章 (2)](https://youtu.be/yuafDz-Dz9w)
+- [本編 第 1 章](https://youtu.be/ra3ssiSEJ9o)
+- [本編 第 2 章](https://youtu.be/nYUOGB5gGo8)
+- [本編 第 3 章](https://youtu.be/qp3zPDrVppA)
+- [本編 第 4 章](https://youtu.be/-OKCx-scXi0)
 
 <!--
-[FlutterKaigi 2021 ハンズオン 本編 第 0 章 (1)](https://youtu.be/Z9j5lMKO6Tk)
--->
-
 <YouTubeVideo video-id="Z9j5lMKO6Tk" title="FlutterKaigi 2021 ハンズオン 本編 第 0 章 (1)" />
-
-### 本編 第 0 章 (2)
-
-<!--
-[FlutterKaigi 2021 ハンズオン 本編 第 0 章 (2)](https://youtu.be/yuafDz-Dz9w)
--->
 
 <YouTubeVideo video-id="yuafDz-Dz9w" title="FlutterKaigi 2021 ハンズオン 本編 第 0 章 (2)" />
 
-### 本編 第 1 章
-
-<!--
-[FlutterKaigi 2021 ハンズオン 本編 第 1 章](https://youtu.be/ra3ssiSEJ9o)
--->
-
 <YouTubeVideo video-id="ra3ssiSEJ9o" title="FlutterKaigi 2021 ハンズオン 本編 第 1 章" />
-
-### 本編 第 2 章
-
-<!--
-[FlutterKaigi 2021 ハンズオン 本編 第 2 章](https://youtu.be/nYUOGB5gGo8)
--->
 
 <YouTubeVideo video-id="nYUOGB5gGo8" title="FlutterKaigi 2021 ハンズオン 本編 第 2 章" />
 
-### 本編 第 3 章
-
-<!--
-[FlutterKaigi 2021 ハンズオン 本編 第 3 章](https://youtu.be/qp3zPDrVppA)
--->
-
 <YouTubeVideo video-id="qp3zPDrVppA" title="FlutterKaigi 2021 ハンズオン 本編 第 3 章" />
 
-### 本編 第 4 章
-
-<!--
-[FlutterKaigi 2021 ハンズオン 本編 第 4 章](https://youtu.be/-OKCx-scXi0)
--->
-
 <YouTubeVideo video-id="-OKCx-scXi0" title="FlutterKaigi 2021 ハンズオン 本編 第 4 章" />
+-->
 
 ## 参照
 
